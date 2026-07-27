@@ -1,6 +1,6 @@
 {
   "name": "connect-mongodb-session",
-  "version": "2.4.1",
+  "version": "2.4.1-lineaje-01",
   "description": "MongoDB session store for connect/express built by MongoDB",
   "keywords": [
     "connect",
@@ -12,7 +12,7 @@
   "author": "Valeri Karpov <valeri.karpov@mongodb.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mongodb-js/connect-mongodb-session.git"
+    "url": "https://github.com/lineaje-labs-gos/mongodb-js-connect-mongodb-session"
   },
   "dependencies": {
     "archetype": "0.12.x",
